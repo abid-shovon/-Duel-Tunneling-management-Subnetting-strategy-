@@ -60,4 +60,9 @@ vtp password shovon4333
 All router and switch have common password:
 password: hexalink
 ---------------------------------------------------------------------------------
+Telnet:
+All router which is used for client internet:
+username: router
+password: hexalink
+---------------------------------------------------------------------------------
 
