@@ -65,4 +65,9 @@ All router which is used for client internet:
 username: router
 password: hexalink
 ---------------------------------------------------------------------------------
+SSH:
+Client porsion all switch: 
+username: switch
+password: hexalink
+---------------------------------------------------------------------------------
 
